@@ -18,7 +18,9 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
-- **Radio 3DS 1.2.1:** correção do HOME travando (o experimento do som com a tampa fechada agora vem desligado).
+- **Radio 3DS 1.2.2:** HOME do próprio sistema quando o som está desligado (correção do HOME travando).
+- **3DS Hub 1.5.1:** fechar pelo HOME mais rápido (Câmera, Sintetizador e rede).
+- **Radio 3DS 1.2.1:** o experimento do som com a tampa fechada agora vem desligado.
 - **3DS Hub 1.5:** senha fixa do PC: pareie o 3DS de qualquer lugar digitando a senha do PC.
 - **3DS Hub 1.4.1:** fechar pelo HOME não trava mais na tela "fechando".
 - **3DS Hub 1.4:** pareie o 3DS com o PC longe de casa: o PC mostra um código e você digita no 3DS.
