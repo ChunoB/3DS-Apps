@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.3.2:** vigia no PC: se o Hub do PC fechar, ele abre de novo sozinho em até 2 minutos.
 - **3DS Hub 1.3.1:** fecha na hora (antes podia demorar até 20 s) e o Controle ganhou perfis para Genshin
   Impact, It Takes Two e Parsec, toque como gatilhos LT/RT e sensibilidade do analógico direito.
 - **3DS Hub 1.3:** vários PCs pela internet. Pareie cada PC uma vez (na mesma rede dele) e escolha em
