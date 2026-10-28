@@ -11,13 +11,14 @@ versão nova e perguntam se você quer instalar.
 |---|---|---|---|---|
 | <img src="img/radio3ds.png" width="48"> | **[Radio 3DS](https://github.com/ChunoB/Radio3DS)** | Rádios do mundo inteiro num globo 3D: gire, centralize uma cidade e ouça. Favoritos, busca, rádio-relógio com alarme e temporizador para dormir. | [![versão](https://img.shields.io/github/v/release/ChunoB/Radio3DS?label=)](https://github.com/ChunoB/Radio3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Radio3DS/releases/latest/download/Radio3DS-pacote.zip) |
 | <img src="img/canvas3ds.png" width="48"> | **[Canvas 3DS](https://github.com/ChunoB/Canvas3DS)** | O Canvas da faculdade no 3DS: cursos, tarefas e prazos, avisos, módulos, páginas, notas e mensagens. | [![versão](https://img.shields.io/github/v/release/ChunoB/Canvas3DS?label=)](https://github.com/ChunoB/Canvas3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Canvas3DS/releases/latest/download/Canvas3DS-pacote.zip) |
-| <img src="img/3dshub.png" width="48"> | **[3DS Hub](https://github.com/ChunoB/3DSHub)** | O 3DS como controle, segunda tela, sintetizador, câmera (webcam no OBS) e espelho do PC. Funciona em casa e longe dela, pela internet, com vários PCs pareados: escolha o PC numa lista e toque para conectar. Vem com o programa do PC. | [![versão](https://img.shields.io/github/v/release/ChunoB/3DSHub?label=)](https://github.com/ChunoB/3DSHub/releases/latest) | [pacote .zip](https://github.com/ChunoB/3DSHub/releases/latest/download/3dshub-pacote.zip) |
+| <img src="img/3dshub.png" width="48"> | **[3DS Hub](https://github.com/ChunoB/3DSHub)** | O 3DS como controle, segunda tela, sintetizador, câmera (webcam no OBS) e espelho do PC. Funciona em casa e longe dela, pela internet, com vários PCs pareados (até por código, longe do PC): escolha o PC numa lista e toque para conectar. Vem com o programa do PC. | [![versão](https://img.shields.io/github/v/release/ChunoB/3DSHub?label=)](https://github.com/ChunoB/3DSHub/releases/latest) | [pacote .zip](https://github.com/ChunoB/3DSHub/releases/latest/download/3dshub-pacote.zip) |
 | <img src="img/navegador3ds.png" width="48"> | **[Navegador 3DS](https://github.com/ChunoB/Navegador3DS)** | Navegador leve para sites de texto: Wikipédia, notícias, buscas e formulários, com favoritos e histórico. | [![versão](https://img.shields.io/github/v/release/ChunoB/Navegador3DS?label=)](https://github.com/ChunoB/Navegador3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Navegador3DS/releases/latest/download/Navegador3DS-pacote.zip) |
 
 Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.4:** pareie o 3DS com o PC longe de casa: o PC mostra um código e você digita no 3DS.
 - **3DS Hub 1.3.2:** vigia no PC: se o Hub do PC fechar, ele abre de novo sozinho em até 2 minutos.
 - **3DS Hub 1.3.1:** fecha na hora (antes podia demorar até 20 s) e o Controle ganhou perfis para Genshin
   Impact, It Takes Two e Parsec, toque como gatilhos LT/RT e sensibilidade do analógico direito.
