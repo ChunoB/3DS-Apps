@@ -18,6 +18,8 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **Radio 3DS 1.2.3:** menos travamentos (não mexe mais no chip de áudio com a opção desligada) e atualização
+  mais segura. Se o app não atualizar sozinho: FBI > Remote Install > Scan QR Code com o link do `.cia`.
 - **Radio 3DS 1.2.2:** HOME do próprio sistema quando o som está desligado (correção do HOME travando).
 - **3DS Hub 1.5.1:** fechar pelo HOME mais rápido (Câmera, Sintetizador e rede).
 - **Radio 3DS 1.2.1:** o experimento do som com a tampa fechada agora vem desligado.
