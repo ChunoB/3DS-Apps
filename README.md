@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.11.0:** Espelho da tela inteira e teclado na tela de baixo que digita no PC em tempo real.
 - **3DS Hub 1.10.0:** Espelho: cliques que funcionam, seta do mouse na imagem, teclado para digitar no PC e faixa de rolagem.
 - **3DS Hub 1.9.1:** Steam: "Fechar" agora fecha o jogo no PC de verdade.
 - **3DS Hub 1.9.0:** ligar (Wake-on-LAN) e suspender o PC pelo 3DS, em Ajustes.
