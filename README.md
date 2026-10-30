@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.11.3:** em redes que bloqueiam o acesso pela internet, o PC espera cada vez mais entre as tentativas em vez de insistir sem parar.
 - **3DS Hub 1.11.2:** acesso pela internet volta a publicar o endereço (corrige o erro "certificate has expired" em alguns PCs). Só atualizar a pasta pc do PC.
 - **3DS Hub 1.11.1:** no New 3DS usa o processador rápido (804 MHz) e o cache extra, como os outros apps.
 - **3DS Hub 1.11.0:** Espelho da tela inteira e teclado na tela de baixo que digita no PC em tempo real.
