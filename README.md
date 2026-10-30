@@ -11,13 +11,18 @@ versão nova e perguntam se você quer instalar.
 |---|---|---|---|---|
 | <img src="img/radio3ds.png" width="48"> | **[Radio 3DS](https://github.com/ChunoB/Radio3DS)** | Rádios do mundo inteiro num globo 3D: gire, centralize uma cidade e ouça. Favoritos, busca, rádio-relógio com alarme e temporizador para dormir. | [![versão](https://img.shields.io/github/v/release/ChunoB/Radio3DS?label=)](https://github.com/ChunoB/Radio3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Radio3DS/releases/latest/download/Radio3DS-pacote.zip) |
 | <img src="img/canvas3ds.png" width="48"> | **[Canvas 3DS](https://github.com/ChunoB/Canvas3DS)** | O Canvas da faculdade no 3DS: cursos, tarefas e prazos, avisos, módulos, páginas, notas e mensagens. | [![versão](https://img.shields.io/github/v/release/ChunoB/Canvas3DS?label=)](https://github.com/ChunoB/Canvas3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Canvas3DS/releases/latest/download/Canvas3DS-pacote.zip) |
-| <img src="img/3dshub.png" width="48"> | **[3DS Hub](https://github.com/ChunoB/3DSHub)** | O 3DS como controle, segunda tela, sintetizador, câmera (webcam no OBS) e espelho do PC. Funciona em casa e longe dela, pela internet, com vários PCs pareados (até com a senha do PC, de longe): escolha o PC numa lista e toque para conectar. Vem com o programa do PC. | [![versão](https://img.shields.io/github/v/release/ChunoB/3DSHub?label=)](https://github.com/ChunoB/3DSHub/releases/latest) | [pacote .zip](https://github.com/ChunoB/3DSHub/releases/latest/download/3dshub-pacote.zip) |
+| <img src="img/3dshub.png" width="48"> | **[3DS Hub](https://github.com/ChunoB/3DSHub)** | O 3DS como controle, segunda tela, sintetizador, câmera (webcam no OBS) e espelho do PC, com a biblioteca da Steam (o jogo aparece no 3DS, com som), Bichinho, Pescaria e Karaokê. Funciona em casa e longe dela, pela internet, com vários PCs pareados (até com a senha do PC, de longe): escolha o PC numa lista e toque para conectar. Vem com o programa do PC. | [![versão](https://img.shields.io/github/v/release/ChunoB/3DSHub?label=)](https://github.com/ChunoB/3DSHub/releases/latest) | [pacote .zip](https://github.com/ChunoB/3DSHub/releases/latest/download/3dshub-pacote.zip) |
 | <img src="img/navegador3ds.png" width="48"> | **[Navegador 3DS](https://github.com/ChunoB/Navegador3DS)** | Navegador leve para sites de texto: Wikipédia, notícias, buscas e formulários, com favoritos e histórico. | [![versão](https://img.shields.io/github/v/release/ChunoB/Navegador3DS?label=)](https://github.com/ChunoB/Navegador3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Navegador3DS/releases/latest/download/Navegador3DS-pacote.zip) |
 
 Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.8.0:** três módulos novos: Bichinho (sente o PC; aceita skins), Pescaria (o lago abre no PC, até 4 pescadores) e Karaokê (letra da música do PC e afinação pelo microfone).
+- **3DS Hub 1.7.0:** Steam com som do PC no 3DS e modo Blocos (manda só o que mudou na tela).
+- **3DS Hub 1.6.2:** Steam: jogos que ignoram a escala do Windows agora ocupam a tela toda.
+- **3DS Hub 1.6.1:** Steam bem mais fluida e modo Retro.
+- **3DS Hub 1.6.0:** a biblioteca da Steam do PC no 3DS: o jogo abre no PC e aparece na tela de cima.
 - **Radio 3DS 1.2.4:** o aviso de onde o HOME travou agora aparece (embaixo e em Ajustes).
 - **Radio 3DS 1.2.3:** menos travamentos (não mexe mais no chip de áudio com a opção desligada) e atualização
   mais segura. Se o app não atualizar sozinho: FBI > Remote Install > Scan QR Code com o link do `.cia`.
