@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.9.1:** Steam: "Fechar" agora fecha o jogo no PC de verdade.
 - **3DS Hub 1.9.0:** ligar (Wake-on-LAN) e suspender o PC pelo 3DS, em Ajustes.
 - **3DS Hub 1.8.1:** Steam: o som do PC chega bem mais alto no 3DS (ganho automático com limitador).
 - **3DS Hub 1.8.0:** três módulos novos: Bichinho (sente o PC; aceita skins), Pescaria (o lago abre no PC, até 4 pescadores) e Karaokê (letra da música do PC e afinação pelo microfone).
