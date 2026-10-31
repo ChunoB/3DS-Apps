@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.11.5:** Karaokê ainda melhor para achar letras: num teste com 115 músicas, 83% acharam (todas as internacionais).
 - **3DS Hub 1.11.4:** Karaokê acha a letra de muito mais músicas (segunda fonte de letras, tenta de novo quando o site cai e entende melhor os títulos do YouTube e do Spotify).
 - **3DS Hub 1.11.3:** em redes que bloqueiam o acesso pela internet, o PC espera cada vez mais entre as tentativas em vez de insistir sem parar.
 - **3DS Hub 1.11.2:** acesso pela internet volta a publicar o endereço (corrige o erro "certificate has expired" em alguns PCs). Só atualizar a pasta pc do PC.
