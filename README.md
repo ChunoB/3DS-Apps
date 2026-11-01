@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.12.0:** o Karaokê virou jogo: faixa de notas como no Guitar Hero, Perfeito/Ótimo/Bom, combo e Turbo, três níveis, perfis com XP, vez de 1 a 4 jogadores (a música recomeça para o próximo) e recordes de cada música.
 - **3DS Hub 1.11.5:** Karaokê ainda melhor para achar letras: num teste com 115 músicas, 83% acharam (todas as internacionais).
 - **3DS Hub 1.11.4:** Karaokê acha a letra de muito mais músicas (segunda fonte de letras, tenta de novo quando o site cai e entende melhor os títulos do YouTube e do Spotify).
 - **3DS Hub 1.11.3:** em redes que bloqueiam o acesso pela internet, o PC espera cada vez mais entre as tentativas em vez de insistir sem parar.
