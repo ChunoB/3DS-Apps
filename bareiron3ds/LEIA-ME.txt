@@ -1,0 +1,38 @@
+bareiron 3DS
+============
+
+Servidor de Minecraft Java 1.21.8 rodando no próprio 3DS (Old ou New).
+Port do bareiron (https://github.com/p2r3/bareiron), um servidor bem leve
+feito para placas pequenas como o ESP32.
+
+INSTALAR
+- HOME Menu: copie o bareiron3ds.cia para o cartão SD e instale pelo FBI.
+- Homebrew Launcher: copie a pasta 3ds (com o bareiron3ds.3dsx) para a raiz do SD.
+
+USAR
+1. Conecte o 3DS ao Wi-Fi (Configurações do Console > Internet).
+2. Abra o bareiron 3DS. A tela de cima mostra o endereço, tipo 192.168.0.42.
+3. No PC, abra o Minecraft Java 1.21.8 > Multijogador > Adicionar servidor
+   e digite esse endereço. O PC precisa estar na mesma rede Wi-Fi.
+4. A tela de cima mostra quem está online e onde. A de baixo mostra o log.
+
+BOTÕES
+- START: salva e fecha o servidor.
+- SELECT: apaga as telas para economizar bateria (qualquer botão acende de novo).
+- Pode fechar a tampa: o 3DS não dorme enquanto o servidor estiver aberto.
+- Evite apertar HOME: o servidor pausa e quem está jogando cai depois de uns segundos.
+
+O MUNDO
+- Fica salvo em sdmc:/3ds/bareiron3ds/world.bin. Apague esse arquivo para
+  começar um mundo novo.
+
+LIMITES (do bareiron, não do 3DS)
+- Só Minecraft Java 1.21.8 original (sem Fabric/mods), modo offline: entra
+  qualquer nome, sem senha. Use só em rede de confiança.
+- Mundo e mecânicas simplificados: geração de terreno própria, receitas,
+  mobs e água mais simples, distância de visão curta.
+- Até 16 jogadores lembrados; na prática, poucos ao mesmo tempo.
+
+LICENÇA
+GPLv3, igual ao bareiron. O código do port está na pasta bareiron3ds do
+repositório ChunoB/3DS-Apps.

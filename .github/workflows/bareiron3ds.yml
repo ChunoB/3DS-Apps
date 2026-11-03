@@ -1,0 +1,49 @@
+name: bareiron 3DS
+
+on:
+  push:
+    paths:
+      - "bareiron3ds/**"
+      - ".github/workflows/bareiron3ds.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: devkitpro/devkitarm:latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build makerom and bannertool
+        run: |
+          mkdir -p /tmp/tools /tmp/bin
+          cd /tmp/tools
+          git clone https://github.com/3DSGuy/Project_CTR
+          git -C Project_CTR checkout d52c2b0e788c2d085763d7c5dcc4b2edd9ffb7d8
+          make -C Project_CTR/makerom deps -j"$(nproc)"
+          make -C Project_CTR/makerom program -j"$(nproc)"
+          cp Project_CTR/makerom/bin/makerom /tmp/bin/
+          git clone https://github.com/diasurgical/bannertool
+          git -C bannertool checkout 16d8c5a0ce02a5e06e64ab42275132fca57c04a2
+          git -C bannertool submodule update --init
+          make -C bannertool -j"$(nproc)"
+          cp bannertool/output/linux-x86_64/bannertool /tmp/bin/
+          echo "/tmp/bin" >> "$GITHUB_PATH"
+
+      - name: Build .3dsx and .cia
+        working-directory: bareiron3ds
+        run: |
+          make -j"$(nproc)"
+          make cia
+
+      - name: Package
+        run: |
+          mkdir -p pacote/3ds
+          cp bareiron3ds/bareiron3ds.cia pacote/
+          cp bareiron3ds/bareiron3ds.3dsx pacote/3ds/
+          cp bareiron3ds/LEIA-ME.txt bareiron3ds/LICENSE pacote/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bareiron3ds-pacote
+          path: pacote/
