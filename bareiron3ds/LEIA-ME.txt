@@ -11,10 +11,12 @@ INSTALAR
 
 USAR
 1. Conecte o 3DS ao Wi-Fi (Configurações do Console > Internet).
-2. Abra o bareiron 3DS. A tela de cima mostra o endereço, tipo 192.168.0.42.
+2. Abra o bareiron 3DS. A tela de baixo mostra o endereço, tipo 192.168.0.42.
 3. No PC, abra o Minecraft Java 1.21.8 > Multijogador > Adicionar servidor
    e digite esse endereço. O PC precisa estar na mesma rede Wi-Fi.
-4. A tela de cima mostra quem está online e onde. A de baixo mostra o log.
+4. A tela de cima vira um mapa do mundo visto de cima, com a setinha e o
+   nome de cada jogador e um aviso quando alguém entra ou sai. A de baixo
+   mostra o endereço e a lista de quem está online.
 
 BOTÕES
 - START: salva e fecha o servidor.

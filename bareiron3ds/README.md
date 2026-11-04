@@ -7,8 +7,9 @@ Como usar: veja o [LEIA-ME.txt](LEIA-ME.txt).
 
 ## O que mudou em relação ao bareiron
 
-- `source/platform_3ds.c` (novo): telas, Wi-Fi (`soc:U`), botões, HOME e salvar ao sair.
-  O loop do servidor chama `task_yield()` com frequência, e é ali que o 3DS lê os botões e redesenha a tela de cima.
+- `source/platform_3ds.c` (novo): Wi-Fi (`soc:U`), botões, HOME e salvar ao sair.
+  O loop do servidor chama `task_yield()` com frequência, e é ali que o 3DS lê os botões e desenha as telas.
+- `source/ui.c` (novo): o mapa ao vivo (feito com o mesmo gerador de terreno do servidor, aos poucos para não travar o jogo), as setas dos jogadores, os avisos de entrada/saída e o painel de baixo. A fonte é a do console do libctru (`include/font8x8.h`).
 - `include/globals.h`: no 3DS `task_yield()` vira função de verdade.
 - `source/main.c`: o `main()` do bareiron vira `bareiron_main()`, e erros aparecem na tela em vez de fechar o app.
 - `source/serialize.c`: o mundo fica em `sdmc:/3ds/bareiron3ds/world.bin`.
