@@ -11,13 +11,14 @@ versão nova e perguntam se você quer instalar.
 |---|---|---|---|---|
 | <img src="img/radio3ds.png" width="48"> | **[Radio 3DS](https://github.com/ChunoB/Radio3DS)** | Rádios do mundo inteiro num globo 3D: gire, centralize uma cidade e ouça. Favoritos, busca, rádio-relógio com alarme e temporizador para dormir. | [![versão](https://img.shields.io/github/v/release/ChunoB/Radio3DS?label=)](https://github.com/ChunoB/Radio3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Radio3DS/releases/latest/download/Radio3DS-pacote.zip) |
 | <img src="img/canvas3ds.png" width="48"> | **[Canvas 3DS](https://github.com/ChunoB/Canvas3DS)** | O Canvas da faculdade no 3DS: cursos, tarefas e prazos, avisos, módulos, páginas, notas e mensagens. | [![versão](https://img.shields.io/github/v/release/ChunoB/Canvas3DS?label=)](https://github.com/ChunoB/Canvas3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Canvas3DS/releases/latest/download/Canvas3DS-pacote.zip) |
-| <img src="img/3dshub.png" width="48"> | **[3DS Hub](https://github.com/ChunoB/3DSHub)** | O 3DS como controle, segunda tela, sintetizador, câmera (webcam no OBS) e espelho do PC, com a biblioteca da Steam (o jogo aparece no 3DS, com som), Bichinho, Pescaria e Karaokê. Funciona em casa e longe dela, pela internet, com vários PCs pareados (até com a senha do PC, de longe): escolha o PC numa lista e toque para conectar. Vem com o programa do PC. | [![versão](https://img.shields.io/github/v/release/ChunoB/3DSHub?label=)](https://github.com/ChunoB/3DSHub/releases/latest) | [pacote .zip](https://github.com/ChunoB/3DSHub/releases/latest/download/3dshub-pacote.zip) |
+| <img src="img/3dshub.png" width="48"> | **[3DS Hub](https://github.com/ChunoB/3DSHub)** | O 3DS como controle, segunda tela, sintetizador, câmera (webcam no OBS) e espelho do PC, com a biblioteca da Steam (o jogo aparece no 3DS, com som), Bichinho, Pescaria e Karaokê. Funciona em casa e longe dela, pela internet, com vários PCs pareados (até com a senha do PC, de longe): escolha o PC numa lista e toque para conectar. Também funciona com o celular Android no lugar do PC (som do celular no 3DS, espelho, controle e busca de música). Vem com o programa do PC e o app do celular. | [![versão](https://img.shields.io/github/v/release/ChunoB/3DSHub?label=)](https://github.com/ChunoB/3DSHub/releases/latest) | [pacote .zip](https://github.com/ChunoB/3DSHub/releases/latest/download/3dshub-pacote.zip) |
 | <img src="img/navegador3ds.png" width="48"> | **[Navegador 3DS](https://github.com/ChunoB/Navegador3DS)** | Navegador leve para sites de texto: Wikipédia, notícias, buscas e formulários, com favoritos e histórico. | [![versão](https://img.shields.io/github/v/release/ChunoB/Navegador3DS?label=)](https://github.com/ChunoB/Navegador3DS/releases/latest) | [pacote .zip](https://github.com/ChunoB/Navegador3DS/releases/latest/download/Navegador3DS-pacote.zip) |
 
 Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.13.0:** o celular no lugar do PC. Com o app Android, o 3DS acha o celular sozinho (até no roteador dele, na rua) e todos os módulos funcionam, menos a Steam: som do celular saindo no 3DS, busca de música no YouTube Music, espelho com toque e teclado, botões do 3DS como toques nos jogos, câmera, Pescaria, Karaokê e Bichinho. Também: SELECT escolhe o PC ou celular, bateria em % e START duas vezes para sair.
 - **3DS Hub 1.12.0:** o Karaokê virou jogo: faixa de notas como no Guitar Hero, Perfeito/Ótimo/Bom, combo e Turbo, três níveis, perfis com XP, vez de 1 a 4 jogadores (a música recomeça para o próximo) e recordes de cada música.
 - **3DS Hub 1.11.5:** Karaokê ainda melhor para achar letras: num teste com 115 músicas, 83% acharam (todas as internacionais).
 - **3DS Hub 1.11.4:** Karaokê acha a letra de muito mais músicas (segunda fonte de letras, tenta de novo quando o site cai e entende melhor os títulos do YouTube e do Spotify).
@@ -58,7 +59,7 @@ Os links de download e as versões sempre mostram a mais nova.
 2. Escolha um jeito:
    - **No HOME Menu, como um jogo:** copie o `.cia` para o cartão SD e instale pelo FBI.
    - **Pelo Homebrew Launcher:** copie o `.3dsx` para a pasta `3ds` do cartão SD.
-3. Veja o `LEIA-ME.txt` de cada pacote. Alguns têm uma pasta `pc` com ferramentas para o computador.
+3. Veja o `LEIA-ME.txt` de cada pacote. Alguns têm uma pasta `pc` com ferramentas para o computador. O do 3DS Hub também traz o app do celular (`3dshub-celular.apk`).
 
 ## Atualizações
 
