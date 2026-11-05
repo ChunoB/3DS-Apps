@@ -18,6 +18,7 @@ Os links de download e as versões sempre mostram a mais nova.
 
 ## Novidades
 
+- **3DS Hub 1.13.1:** o Hub do PC não abre mais duas vezes ao ligar o Windows (o segundo ficava sem funcionar e o 3DS podia não achar o PC).
 - **3DS Hub 1.13.0:** o celular no lugar do PC. Com o app Android, o 3DS acha o celular sozinho (até no roteador dele, na rua) e todos os módulos funcionam, menos a Steam: som do celular saindo no 3DS, busca de música no YouTube Music, espelho com toque e teclado, botões do 3DS como toques nos jogos, câmera, Pescaria, Karaokê e Bichinho. Também: SELECT escolhe o PC ou celular, bateria em % e START duas vezes para sair.
 - **3DS Hub 1.12.0:** o Karaokê virou jogo: faixa de notas como no Guitar Hero, Perfeito/Ótimo/Bom, combo e Turbo, três níveis, perfis com XP, vez de 1 a 4 jogadores (a música recomeça para o próximo) e recordes de cada música.
 - **3DS Hub 1.11.5:** Karaokê ainda melhor para achar letras: num teste com 115 músicas, 83% acharam (todas as internacionais).
